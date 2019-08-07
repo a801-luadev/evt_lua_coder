@@ -4,3 +4,7 @@
 → Wiki: https://transformice.fandom.com/wiki/The_Lua_Coder
 
 → Source mirrored from [Lautenschlager-id/Transformice](https://github.com/Lautenschlager-id/Transformice/blob/master/Events/Lua%20Coder%202017.lua)
+
+## Media
+<p align='center'><a href='https://youtu.be/fqG7nTFegCc'><img src='https://img.youtube.com/vi/fqG7nTFegCc/hqdefault.jpg' /></a></p>
+<p align='center'><a href='https://youtu.be/8PTTVR5xBV0'><img src='https://img.youtube.com/vi/8PTTVR5xBV0/hqdefault.jpg' /></a></p>
